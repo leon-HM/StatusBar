@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <!--<style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+    </style>-->
+
+    <style name="AppTheme" parent="@style/BaseAppTheme">
+        <!--<item name="colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_bright</item>-->
+    </style>
+
+</resources>
